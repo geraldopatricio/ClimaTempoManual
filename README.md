@@ -14,7 +14,7 @@ Registre-se no site da API:
 https://openweathermap.org/
 
 Inclua sua chave no src/App.js
-linha 28 em appid=XXXXXXXXXXXXXXXXXXX
+linha 8 em appid=XXXXXXXXXXXXXXXXXXX
 ```
 
 ## Instale o Pacote 
